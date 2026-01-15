@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+
+# Allow batch scripts
+!*.bat
+
+# Allow .gitignore itself
+!.gitignore
