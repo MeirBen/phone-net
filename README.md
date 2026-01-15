@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Phone-Net Banner" />
+</p>
+
 # 📱 Phone-Net — USB Reverse Tethering for Android (Windows)
 
 Use your **Windows PC wired Ethernet** connection on your **Android phone** over USB.  
