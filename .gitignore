@@ -4,5 +4,8 @@
 # Allow batch scripts
 !*.bat
 
+# Allow md files
+!*.md
+
 # Allow .gitignore itself
 !.gitignore
