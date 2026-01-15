@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./banner.png" alt="Phone-Net Banner" style="max-width:100%; height:auto;" />
+  <img src="./banner.png"
+       alt="Phone-Net Banner"
+       style="max-width:100%; height:auto; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,.25);" />
 </p>
 
 # 📱 Phone-Net — USB Reverse Tethering for Android (Windows)
