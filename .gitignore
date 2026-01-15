@@ -7,5 +7,8 @@
 # Allow md files
 !*.md
 
+# Allow png images
+!*.png
+
 # Allow .gitignore itself
 !.gitignore
